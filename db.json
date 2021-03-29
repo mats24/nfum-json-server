@@ -1,0 +1,8 @@
+{
+  "cdrids": [
+    { "id": "07976556276", "title": "andysteelmobile", "cdrId": "cdr-01-abcde1234" },
+    { "id": "01482248854", "title": "mats24desk1", "cdrId": "cdr-01-abcde1234" },
+    { "id": "901482248854", "title": "mats24desk2", "cdrId": "cdr-02-abcde1234" },
+    { "id": "+441482248854", "title": "mats24desk3", "cdrId": "cdr-02-abcde1234" }
+  ]
+}
